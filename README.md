@@ -1,32 +1,20 @@
-# 🚀 Pacote Premium de Skills Comerciais
+# 🚀 Meus Skills Premium
 
-Este repositório contém um conjunto de skills prontos para uso em:
-- WhatsApp
+Sistema de atendimento inteligente para vendas usando IA.
+
+## 📦 Skills incluídos
+
+- Universal
+- Clínica
 - Instagram
-- Atendimento comercial
-- Clínicas e negócios locais
-
-## 🔥 O que está incluído
-
-- Skill Universal (adaptável para qualquer negócio)
-- Skill para Clínicas
-- Skill de Vendas no Instagram
-- Skill para WhatsApp
-- Templates de mensagens
-- Estrutura de diagnóstico
-- Pitch e proposta comercial
+- WhatsApp
 
 ## 🎯 Objetivo
 
-Aumentar conversão de leads em clientes através de atendimento estratégico com IA.
+Aumentar conversão de leads.
 
-## 💡 Como usar
+## 💼 Aplicação
 
-1. Escolha um skill
-2. Preencha as variáveis da empresa
-3. Copie o prompt
-4. Use no atendimento (ChatGPT, WhatsApp, etc.)
-
-## 👩‍💼 Criado por
-
-Consultora de automação e IA aplicada a vendas
+- Consultorias
+- Clínicas
+- Negócios locais
